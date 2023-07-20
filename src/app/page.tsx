@@ -1,5 +1,5 @@
 "use client"
-import PomodoroTimer from '@/components/pomodoroTimer'
+import PomodoroTimer from '@/components/PomodoroTimer'
 import { useEffect } from 'react'
 
 

@@ -7,11 +7,11 @@ module.exports = {
   ],
   theme: {
     extend: {
-      backgroundImage: {
-        'primary': 'rgb(164, 144, 124)',
-        'secondary': 'rgb(152, 238, 204)',
-        'terciary': 'rgb(208, 245, 190)',
-        'quaternary': 'rgb(251, 255, 220)',
+      backgroundColor: {
+        'primary': '#A4907C',
+        'secondary': '#98EECC',
+        'terciary': '#D0F5BE',
+        'quaternary': '#FBFFDC',
       },
     },
   },
