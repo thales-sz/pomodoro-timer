@@ -13,6 +13,12 @@ module.exports = {
         'terciary': '#D0F5BE',
         'quaternary': '#FBFFDC',
       },
+      textColor: {
+        'primary': '#A4907C',
+        'secondary': '#98EECC',
+        'terciary': '#D0F5BE',
+        'quaternary': '#FBFFDC',
+      },
     },
   },
   plugins: [],
